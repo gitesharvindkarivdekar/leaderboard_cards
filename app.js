@@ -2,8 +2,9 @@ import React from 'react'
 
 function app() {
   return (
-    <div>
+    <div className='country'>
       India is my country
+    
     </div>
   )
 }
